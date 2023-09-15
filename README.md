@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Codding-Gabbar
-- 👀 I’m interested in web development 
-- ♥ I'm currrently studing in computer eng. in diploma
+- 👋 Hi, I’m Gabbar
+- 👀 I’m interested in tecnology
+- ♥ I'm currrently studing in computer eng. specialllization in cyber security
 - 🌱 I’m currently learning php 
-- 📫 How to reach me ... instagram -> @coding_gabbar
+- 📫 How to reach me ... instagram -> @great__gabbar
 
 <!---
 Codding-Gabbar/Codding-Gabbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
