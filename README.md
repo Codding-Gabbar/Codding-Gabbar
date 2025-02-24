@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **php**
 
-- 📫 How to reach me **chinuvgaode@gmail.com**
+- 📫 How to reach me **gaodechinmai.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
