@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chinmai Gaode</h1>
-<h3 align="center">I am a leagal Hacker</h3>
+<h3 align="center">I am a Devloper </h3>
 
 - 🔭 I’m currently working on **location tracker with help of simple phone**
 
