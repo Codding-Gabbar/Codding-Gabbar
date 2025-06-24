@@ -7,9 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [gaodechinmai@gmail.com](gaodechinmai@gmail.com)
 
-- 📝 I regularly write articles on [Null](Null)
-
-- 💬 Ask me about **php**
+- 💬 Ask me about **Cyber Security**
 
 - 📫 How to reach me **gaodechinmai.com**
 
